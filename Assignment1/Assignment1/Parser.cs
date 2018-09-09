@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment1
 {
-    class Parser
+    public class Parser
     {
         private string _input;
         private int _currentChar;
