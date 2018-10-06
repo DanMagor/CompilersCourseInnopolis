@@ -1,0 +1,10 @@
+( LeftParen
+) RightParen
+, Comma
+. Dot
+; Semicolon
+: Two_Dots
+[ LeftBracket
+] RightBracket
+{ LeftBrace
+} RightBrace

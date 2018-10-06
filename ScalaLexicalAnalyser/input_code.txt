@@ -1,0 +1,16 @@
+1 223423 3.000 -34 3.0e-4 0xff
+3.14159f .1 0xFFFFFFFF -42L
+'a'    '\u0041'    '\n'    '\t'
+"" "dsds" """
+dsd
+
+dsds""" """"""
+/*dsds
+dsd
+
+dsd*/
+aa //dsds
+var `var` _var ++ +++ >>> > >= +=
+true aa$aa $ 
+package, super
+->, <-, =>, <% + - / *"
