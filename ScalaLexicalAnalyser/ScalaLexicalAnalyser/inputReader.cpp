@@ -18,6 +18,7 @@ std::unordered_set<std::string> InputReader::readKeywords(std::string fileName)
 	return keywordsSet;	
 }
 
+<<<<<<< HEAD
 std::unordered_set<std::string> InputReader::readSpecialSymbols(std::string fileName)
 {
 	std::ifstream fileStream;

@@ -1,6 +1,7 @@
 #pragma once
 
 #include <unordered_set>
+<<<<<<< HEAD
 #include <unordered_map>
 #include <iostream>
 #include <fstream>
@@ -8,10 +9,12 @@
 #include "LexicalAnalyzer.h"
 #include "Main.h"
 
+
 using namespace std;
 
 const string KEYWORDS_FILE_NAME = "..\\keywords.txt";
 const string INPUT_CODE_FILE_NAME = "..\\input_code.txt";
+
 const string SPECIAL_SYMBOL_FILE_NAME = "..\\special_symbols.txt";
 const string OPERATORS_SYMBOL_FILE_NAME = "..\\operators.txt";
 const string DELIMETERS_SYMBOL_FILE_NAME = "..\\delimeters.txt";
@@ -20,8 +23,10 @@ unordered_map<string, string> operatorsMap;
 unordered_map<string, string> delimetersMap;
 
 
+
 	
 	int main() {
+
 
 
 		
@@ -41,9 +46,11 @@ unordered_map<string, string> delimetersMap;
 		{
 			outputfile << result;
 		}
+
 		return 0;
 
 	}
+
 
 
 

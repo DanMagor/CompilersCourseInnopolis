@@ -1,6 +1,8 @@
 #pragma once
 #include <unordered_set>
+
 #include <unordered_map>
+
 #include<string>
 #include <iostream>
 
@@ -8,6 +10,7 @@ class LexicalAnalyzer
 {
 public:
 	
+
 
 	std::string analyzeCode();
 	std::string analyzeCode(std::string _codeText, char _currentChar, int _index);
@@ -55,5 +58,6 @@ private:
 
 	char _currentChar;
 	unsigned int _index;
+
 };
 

@@ -5,6 +5,7 @@
 
 
 
+
 std::string LexicalAnalyzer::analyzeCode()
 {
 

@@ -32,8 +32,11 @@
     <ClInclude Include="LexicalAnalyzer.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="Main.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
+=======
+>>>>>>> 4be92c3f275547ab6f0869d0ed1b8c069eb38c3d
   </ItemGroup>
 </Project>

@@ -153,7 +153,10 @@
   <ItemGroup>
     <ClInclude Include="inputReader.h" />
     <ClInclude Include="LexicalAnalyzer.h" />
+<<<<<<< HEAD
     <ClInclude Include="Main.h" />
+=======
+>>>>>>> 4be92c3f275547ab6f0869d0ed1b8c069eb38c3d
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
